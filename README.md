@@ -16,3 +16,6 @@ To install the required packages, run:
 
 ```bash
 pip install ccxt pandas pyarrow h5py matplotlib
+
+Usage
+To execute the script, simply run:
