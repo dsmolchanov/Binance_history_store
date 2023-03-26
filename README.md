@@ -17,7 +17,11 @@ To install the required packages, run:
 ```bash
 pip install ccxt pandas pyarrow h5py matplotlib
 
+
+```bash
+
 ### Usage
 To execute the script, simply run:
+
 ```bash
 python ethusdt_data_comparison.py
